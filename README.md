@@ -1,13 +1,13 @@
 # AngularでDjango REST Framework(API)からデータを取得する勉強
 
-## Angular
+## Angular(ng-playlsit)
 
 ```shell
 $ yarn start
 # フロント・・・localhost:4200に接続
 ```
 
-## Django
+## Django(dj_playlist)
 
 ```shell
 $ python manage.py runserver
